@@ -1,6 +1,8 @@
+Folder: https://drive.google.com/drive/folders/1PBrrB8SUeCn2UZ5r5u0Y0H7D4Q3hOJ2a?usp=sharing
+
 a simple programmed fortnite aimbot
 
-How to Install: click the link download the folder and run FNaimbot since its a .exe file from a unknown(me) user it might be seen as a threat but yea
+How to Install: copy and paste the link download the folder and run FNaimbot since its a .exe file from a unknown(me) user it might be seen as a threat but yea
 
 
 
