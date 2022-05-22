@@ -1,6 +1,6 @@
 a simple programmed fortnite aimbot
 
-How to Install: download the folder and run FNaimbot since its a .exe file from a unknown(me) user it might be seen as a threat but yea
+How to Install: click the link download the folder and run FNaimbot since its a .exe file from a unknown(me) user it might be seen as a threat but yea
 
 
 
